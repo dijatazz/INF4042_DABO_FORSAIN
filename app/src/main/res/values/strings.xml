@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shoppitazz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seconde">SecondeActivity</string>
+    <string name="button_text">Click</string>
+    <string name="hello_world">Hello world !</string>
+    <string name="title_activity_test">test</string>
+    <string name="Commencer"> Commencer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_page_accueil">Page_accueil</string>
+
+
+    <string name="Hauts">Hauts</string>
+    <string name="Pantalons">Pantalons</string>
+    <string name="Robes">Robes</string>
+    <string name="Jupes_Shorts">Jupes/Shorts</string>
+    <string name="Accessoires">Accessoires</string>
+    <string name="Panier">Panier</string>
+    <string name="Chaussures">Chaussures</string>
+    <string name="title_activity_pantalons">Pantalons</string>
+    <string name="Save">Enregistrer</string>
+    <string name="title_activity_hauts">Hauts</string>
+    <string name="title_activity_robes">Robes</string>
+    <string name="title_activity_jupes_shorts">JupesShorts</string>
+    <string name="title_activity_accessoires">Accessoires</string>
+    <string name="title_activity_chaussures">Chaussures</string>
+
+</resources>

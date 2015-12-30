@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.esiea.dabo_forsain.inf4042_dabo_forsain_good"
+    android:versionCode="0"
+    android:versionName="0.1">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/accueil"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name=".Pantalons"
+            android:label="Choisir un ou des pantalons:">
+        </activity>
+
+        <activity
+            android:name=".Robes"
+            android:label="Choisir une ou des robes:">
+        </activity>
+
+        <activity
+            android:name=".Accessoires"
+            android:label="Choisir des accessoires:">
+        </activity>
+
+        <activity
+            android:name=".JupesShorts"
+            android:label="Choisir une jupe et/ou un short:">
+        </activity>
+
+        <activity
+            android:name=".Hauts"
+            android:label="Choisir un ou des hauts:">
+        </activity>
+
+        <activity
+            android:name=".Chaussures"
+            android:label="Choisir des paires de chaussures:">
+        </activity>
+
+    </application>
+
+</manifest>
+
